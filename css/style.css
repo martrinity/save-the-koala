@@ -24,7 +24,11 @@ army green: 41521F;
 }
 
 #visible-bar a:hover{
-	background-color: #41521F;
+	background-color: rgba(111,173,43,0.5);
 	font-weight: bold;
 }
 
+.first-box{
+	color: white;
+	padding-top: 200px;
+}
