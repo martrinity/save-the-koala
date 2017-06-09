@@ -65,8 +65,8 @@ army green: 41521F;
 	font-weight: bold;
 }
 
-.third-box{
-	padding: 100px 0;
+.third-box, .fifth-section{
+	padding: 90px 0;
 }
 
 
@@ -88,5 +88,24 @@ army green: 41521F;
 #fourth-box{
 	color: white;
 	font-weight: bolder;
-	padding-top: 100px;
+	padding-top: 90px;
+}
+i{
+	color: #A89F68;
+}
+
+.title-fifth{
+	padding-bottom: 30px;
+	color: #A89F68;
+	font-weight: bolder;
+}
+
+.title-sixth{
+	padding-bottom: 30px;
+	color: #41521F;
+	font-weight: bolder;
+}
+
+.sixth-section{
+	background-color: #A89F68;
 }
