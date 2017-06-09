@@ -51,12 +51,12 @@ army green: 41521F;
 	color: #A89F68;
 }
 
-.second-box, .third-box{
+.second-box{
 	padding-top: 150px;
 }
 
 #second-box{
-	padding-top: 100px;
+	padding: 100px;
 	
 }
 
@@ -64,6 +64,11 @@ army green: 41521F;
 	color: #41521F;
 	font-weight: bold;
 }
+
+.third-box{
+	padding: 100px 0;
+}
+
 
 #koala3{
 	border: 10px solid white;
@@ -78,4 +83,10 @@ army green: 41521F;
 	background-image: url(../img/all.jpg);
 	height: 100vh;
 	background-size: cover;
+}
+
+#fourth-box{
+	color: white;
+	font-weight: bolder;
+	padding-top: 100px;
 }
